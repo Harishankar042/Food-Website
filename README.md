@@ -39,7 +39,7 @@ The project consists of the following files:
 
 2. Navigate to the project directory:
     ```bash
-    cd dakshin-delights
+    cd south-delights
     ```
 
 3. Open the `index.html` file in your web browser:
